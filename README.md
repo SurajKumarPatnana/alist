@@ -104,7 +104,7 @@ English | [中文](./README_cn.md)| [日本語](./README_ja.md) | [Contributing]
 
 <https://al.nn.ci>
 
-## Discussion
+## Discussion 
 
 Please go to our [discussion forum](https://github.com/alist-org/alist/discussions) for general questions, **issues are for bug reports and feature requests only.**
 
